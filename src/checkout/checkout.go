@@ -27,8 +27,8 @@ func home(w http.ResponseWriter, r *http.Request) {
 }
 
 func process(w http.ResponseWriter, r *http.Request) {
-	log.Println(r.FormValue("coupon"))
-	log.Println(r.FormValue("cc-number"))
+	// log.Println(r.FormValue("coupon"))
+	// log.Println(r.FormValue("cc-number"))
 
 	result := makeHttpCall("http://localhost:9091", r.FormValue("coupon"), r.FormValue("cc-number"))
 

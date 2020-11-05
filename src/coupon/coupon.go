@@ -49,11 +49,11 @@ func home(w http.ResponseWriter, r *http.Request){
 	coupon := r.PostFormValue("coupon")
 	valid := coupons.Check(coupon)
 
-	resultDesafio := makeHttpCall("http://localhost:9094")
+	//resultDesafio := makeHttpCall("http://localhost:9094")
 
 	//jsonDesafio, err := ioutil.ReadAll(resultDesafio.Status)
 	//if err != nil {
-		log.Println(string(resultDesafio.Status))
+		//log.Println(string(resultDesafio.Status))
 	//}
 
 	result := Result{Status: valid}

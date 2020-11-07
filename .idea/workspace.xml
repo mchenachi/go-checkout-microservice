@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62144d1e-edab-4b65-85b9-2efd09d3874c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkout/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkout/templates/process.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/payment/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkout/checkout.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkout/checkout.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkout/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkout/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coupon/coupon.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/coupon/coupon.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/payment/payment.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/payment/payment.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
